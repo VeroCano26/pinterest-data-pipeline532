@@ -72,3 +72,22 @@ This project implements a data pipeline for handling Pinterest data using variou
 
 The project structure is organized based on the different milestones and tasks. Below is an overview:
 
+- /scripts
+  - user_posting_emulation.py
+  - user_posting_emulation_streaming.py
+- /dags
+  - 0e6999790cc9.py>
+- /notebooks
+  - s3_bucket_to_databricks.ipynb
+  - transform_and_query_batch_data.ipynb
+  - transforming_and_querying_the_streaming_data.ipynb
+- README.md
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
+
+
